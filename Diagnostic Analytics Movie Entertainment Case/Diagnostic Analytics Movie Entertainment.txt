@@ -1,3 +1,4 @@
 So in this portfolio i'm about to analyze and give usefull insight to stakeholders. So i was made 3 problem statement that can be solved. 
 The first step i try to explore the data and make changes, filter, do the data preparation and cleaning. 
-I use SQL to exploring, processing, and analyzing the data. After that, i use Microsoft Excel to cleaning the data and making visualizations as tools to presentate or sharing the insight to stakeholders.
+I use SQL to exploring, processing, and analyzing the data. After that, i use Microsoft Excel to cleaning the data and
+making visualizations as tools to presentate or sharing the insight to stakeholders.
